@@ -1,1 +1,1 @@
-# nexusqi
+# NexusQI
